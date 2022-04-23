@@ -1,3 +1,12 @@
+:root {
+  --heading-colors: white;
+  --website-color: #999999;
+}
 body {
-  background: #2e2e2e;
+  background-color: var(--website-color);
+}
+h1,
+h3,
+h4 {
+  color: var(--heading-colors);
 }
