@@ -4,6 +4,7 @@
 }
 body {
   background-color: var(--website-color);
+  padding: 15px 30px;
 }
 h1,
 h3,
